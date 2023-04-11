@@ -32,9 +32,10 @@ const App = () => {
         <Header></Header>
         {/* <Banner></Banner> */}
         <Hero></Hero>
-        <Bands></Bands>
+        <Skills></Skills>
+        {/* <Bands></Bands> */}
         <About></About>
-         <Skills></Skills>
+       
         <Portfolio></Portfolio>
         <Services></Services>
         <Testimonials></Testimonials>

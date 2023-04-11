@@ -45,7 +45,7 @@ const Hero = () => {
         <div className="flex items-center h-full pt-8 pb-8 gap-x-16">
             {/* left sid */}
             <div className="flex flex-1 flex-col items-center lg:items-start sm:text-center">
-              <p className='text-xl mb-6'>Welcome to my Website</p>
+              <p className='text-xl mb-6'>Welcome to my Website jo</p>
               <p className='text-5xl text-center mb-[12px] text-white'>Hello, It's me <small className='  font-extrabold text-pink-600'>Jobayed Hossain</small></p>
               {/* <div className="flex">
                 <h1 className='text-4xl mt-8 leading-[44px] md:text-5xl md:leading-tight 
@@ -78,10 +78,10 @@ const Hero = () => {
                   cursorColor="#ff014f"
                 />
               </h2>
-              <p className='italic mt-6'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus eligendi ea dolores atque a perferendis adipisci dolor molestiae soluta dolore.</p>
+              <p className='italic mt-6 text-justify'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus eligendi ea dolores atque a perferendis adipisci dolor molestiae soluta dolore.</p>
 
               <div className="flex flex-wrap items-center mt-16 gap-6 ">
-                <button  className='btn btn-lg bg-pink-700 rounded-2xl hover:bg-slate-400 transition-all duration-500'><a href="./assets/img/CV/resume.pdf" download>Download CV</a></button>
+                <button  className='btn btn-lg bg-pink-700 rounded-2xl hover:bg-slate-400 transition-all duration-500'><a href="../assets/img/CV/resume.pdf" download>Download CV</a></button>
                 
                 <button id='contact'  className='btn btn-lg bg-pink-700 rounded-2xl hover:bg-slate-400 transition-all duration-500'>Hire Me</button>
               </div>

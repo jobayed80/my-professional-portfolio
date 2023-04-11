@@ -33,9 +33,9 @@ const About = () => {
                         Md. Jobayed Hossain Rabbi
                     </h2>
                     {/* <p  className='mb-4 text-accent'>Web Designing</p> */}
-                    <hr className='mb-8 opacity-5'/>
-                    <p className='mb-8'>
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero dolores autem pariatur delectus placeat ipsa, molestiae, vel hic sint ad, ipsam architecto nesciunt eum! Illum!
+                    <hr className='mb-8  opacity-5'/>
+                    <p className='mb-8 text-justify tracking-widest font-extrabold'>
+                    I am Md. Jobayed Hossain Rabbi and now studying in B.Sc. in Software Engineering(SWE) at Daffodil International University.I am a web developer who is proficient in both back-end (learning from 'Creative It') and front-end frameworks(react). Skilled in <h4 style={{color:'var(--red'}}>C Programming, Java , Java Swing , JavaScript , HTML , CSS , Tailwind</h4> and with projects. My passion lies in learning about the latest technologies.
                     </p>
                 </div>
                 <button  style={{background:'var(--red'}} className='btn btn-md bg-accent hover:bg-accent-hover transition-all w-full rounded-lg text-xl mt-10' data-aos="zoom-in-up" data-aos-duration="2600" ><a href="">Contact</a></button>
